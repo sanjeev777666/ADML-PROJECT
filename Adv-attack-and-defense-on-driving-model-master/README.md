@@ -60,7 +60,7 @@
   </tr>
 </table> -->
 
-**Python version**: This code is in Python3.5
+**Python version**: This code is in Python3.7
 
 **Package Requirements**: torch==1.1.0, torchvision==0.2.2,numpy, matplotlib, cv2, scipy
 
