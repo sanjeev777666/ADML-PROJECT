@@ -15,7 +15,6 @@
 ```
 Yao Deng, Xi Zheng, Tianyi Zhang, Chen Chen, Guannan Lou, and Miryung Kim. An analysis of adversarial attacks and defenses  on autonomous driving models. CoRR, abs/2002.02175, 2020.
 ```
-# [Here](https://youtu.be/jyT1mYVi6XA) is an attack demo video of `opt_uni` and `advGAN` on `Epoch` model.
 
 
 
@@ -159,4 +158,6 @@ python feature_squeezing.py -- threshold 0.01
 * The experiment result will show on the terminal
 
 
+
+[Here](https://youtu.be/jyT1mYVi6XA) is an attack demo video of `opt_uni` and `advGAN` on `Epoch` model.
 
