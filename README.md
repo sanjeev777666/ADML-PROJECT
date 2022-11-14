@@ -61,25 +61,5 @@ say that our attacks to the proposed network was successful and it reduced ~70% 
 from 90.80% to 88.16% similar with MI-FGSM with same decay factor of 1.0 and iterations of 10, reduction in test accuracy from 90.26% to 87.97% i.e. we can say that defensive
 distillation for the proposed network with temp of 100 was successful and it only reduced ~2% of test accuracy in all the three cases for max epsilon of 0.3.
 
-#### Test Accuracy during attacks
-##### FGSM 
-![](/images/fgsm-attack.png)
-##### I-FGSM 
-![](/images/ifgsm-attack.png) 
-##### MI-FGSM 
-![](/images/mifgsm-attack.png) 
-#### Test Accuracy during attack using defensive distillation 
-##### FGSM 
-![](/images/defense-fgsm.png) 
-##### I-FGSM 
-![](/images/defense-ifgsm.png) 
-##### MI-FGSM 
-![](/images/defense-mifgsm.png) 
-#### Sample Advesarial Examples
-##### FGSM 
-![](/images/fgsm-adv.png) 
-##### I-FGSM 
-![](/images/ifgsm-adv.png) 
-##### MI-FGSM 
-![](/images/mifgsm-adv.png) 
+
 
